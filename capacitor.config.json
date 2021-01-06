@@ -1,0 +1,13 @@
+{
+  "appId": "com.centroxy.notification",
+  "appName": "capApp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
